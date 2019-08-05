@@ -10,8 +10,6 @@
 ``php artisan migrate``
 ``php artisan db:seed``
 
-``npm install``
-
 ``npm install -g laravel-echo-server ``
 
 ``laravel-echo-server init - настройка сервера - важно. В проекте клиент работает на порте по умолчанию 6001``
